@@ -1,9 +1,9 @@
-# Exploit Title: WordPress Poll Plugin SQL Injection 
-# Date: 2024-07-06
-# Exploit Author: tmrswrr
-# Category : Webapps
-# Vendor Homepage: https://total-soft.com/wp-poll/
-# Version 2.3.6
+### Exploit Title: WordPress Poll Plugin SQL Injection 
+### Date: 2024-07-06
+### Exploit Author: tmrswrr
+### Category : Webapps
+### Vendor Homepage: https://total-soft.com/wp-poll/
+### Version 2.3.6
 
 ## Steps to Reproduce:
 
