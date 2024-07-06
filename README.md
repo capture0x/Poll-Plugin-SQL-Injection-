@@ -17,6 +17,9 @@
 
 3. Search for the `orderby` parameter.
 
+<img alt="Result" src="https://raw.github.com/capture0x/Poll-Plugin-SQL-Injection-/main/1.png">
+
+
 ## SQLMAP Command:
 
 ```bash
